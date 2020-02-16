@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581868455 source:e:\learningwithc\firststeps\main.c
+	<stdio.h>
+
+1581866543 source:e:\learningwithc\firststeps\float-and-double-output.c
+	<stdio.h>
+
+1581868624 source:e:\learningwithc\firststeps\print-characters.c
+
+1581868573 source:e:\learningwithc\firststeps\print-numbers.c
+
